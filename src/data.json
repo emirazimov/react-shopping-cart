@@ -2,7 +2,7 @@
   "products":[
     {
     "_id": "dress1",
-    "title": "Dress 1" ,
+    "title": "Pinterest Green V Neckline Hollow Out Lace Dress" ,
     "image": "/images/dress1.jpg",
     "description": "about dress 1",
     "price": 29.9,
@@ -10,67 +10,67 @@
     },
     {
     "_id": "dress2",
-    "title": "Dress 2" ,
+    "title": "Schiffli Embroidered Dress" ,
     "image": "/images/dress2.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 43,
+    "availableSizes": ["XL", "XXL", "L", "M"]
     },
     {
     "_id": "dress3",
-    "title": "Dress 3" ,
+    "title": "Blue Women Dress Chiffon Work Dress Rhinestone Pleated Short Sleeve Summer Dress" ,
     "image": "/images/dress3.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 32,
+    "availableSizes": ["XL", "XXL","S", "XS"]
     },
     {
     "_id": "dress4",
-    "title": "Dress 4" ,
+    "title": "Fashiano Texco Women Polyester Lycra One shoulder Solid Dress" ,
     "image": "/images/dress4.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 24,
+    "availableSizes": ["XL", "XXL","L", "M"]
     },
     {
     "_id": "dress5",
     "title": "Dress 5" ,
     "image": "/images/dress5.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 50,
+    "availableSizes": ["XL", "XXL","S", "XS"]
     },
     {
     "_id": "dress6",
     "title": "Dress 6" ,
     "image": "/images/dress6.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 36,
+    "availableSizes": ["XL", "XXL","S", "XS"]
     },
     {
     "_id": "dress7",
     "title": "Dress 7" ,
     "image": "/images/dress7.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 25,
+    "availableSizes": ["XL", "XXL","L","M"]
     },
     {
     "_id": "dress8",
     "title": "Dress 8" ,
     "image": "/images/dress8.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 20,
+    "availableSizes": ["XL", "XXL","L","M"]
     },
     {
     "_id": "dress9",
     "title": "Dress 9" ,
     "image": "/images/dress9.jpg",
     "description": "about dress 1",
-    "price": 19,
-    "availableSizes": ["XL", "XXL"]
+    "price": 39,
+    "availableSizes": ["XL", "XXL","L","M"]
     }
   ]
 }
